@@ -16,9 +16,9 @@
 - **Архитектура:** ООП (классы Player, Mob, Bullet, Bomb, Explosion, Grass), работа с игровым циклом, коллизиями и анимациями спрайтов.
 
 ## 📸 Скриншоты
-![Геймплей](https://github.com/Knizhniknikita/plane-shooter/blob/main/screens/screshot1.png?raw=true)
-![Победа](https://github.com/Knizhniknikita/plane-shooter/blob/main/screens/screshot2.png?raw=true)
-![Поражение](https://github.com/Knizhniknikita/plane-shooter/blob/main/screens/screshot3.png?raw=true)
+![Геймплей](https://github.com/Knizhniknikita/plane-shooter/blob/main/screens/scrinshot1.jpg?raw=true)
+![Победа](https://github.com/Knizhniknikita/plane-shooter/blob/main/screens/scrinshot2.jpg?raw=true)
+![Поражение](https://github.com/Knizhniknikita/plane-shooter/blob/main/screens/scrinshot3.png?raw=true)
 
 ## ⚙️ Как запустить
 1. Установите зависимости: 
