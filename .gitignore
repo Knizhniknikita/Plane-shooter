@@ -1,18 +1,10 @@
-# Виртуальное окружение (если создавал)
-venv/
-.venv/
-env/
-
-# Кеш Python (создается при запуске)
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Настройки IDE (VS Code, PyCharm)
 .vscode/
 .idea/
 
-# Системный мусор
 .DS_Store
 Thumbs.db
