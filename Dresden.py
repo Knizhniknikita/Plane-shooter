@@ -2,7 +2,6 @@
 import pygame
 import random
 from os import path
-import time
 from random import randint 
 
 # Инциализация звуков и цветов №2
