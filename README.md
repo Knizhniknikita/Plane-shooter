@@ -17,6 +17,7 @@
 
 ## 📸 Скриншоты
 ![Геймплей](https://github.com/Knizhniknikita/plane-shooter/blob/main/screens/scrinshot1.jpg?raw=true)
+![Геймплей](https://github.com/Knizhniknikita/plane-shooter/blob/main/screens/scrinshot4.jpg?raw=true)
 ![Победа](https://github.com/Knizhniknikita/plane-shooter/blob/main/screens/scrinshot2.jpg?raw=true)
 ![Поражение](https://github.com/Knizhniknikita/plane-shooter/blob/main/screens/scrinshot3.png?raw=true)
 
