@@ -17,8 +17,8 @@
 
 ## 📸 Скриншоты
 ![Геймплей](https://github.com/Knizhniknikita/plane-shooter/blob/main/screens/scrinshot1.jpg?raw=true)
-![Победа](https://github.com/Knizhniknikita/plane-shooter/blob/main/screens/scrinshot3.jpg?raw=true)
-![Поражение](https://github.com/Knizhniknikita/plane-shooter/blob/main/screens/scrinshot2.png?raw=true)
+![Победа](https://github.com/Knizhniknikita/plane-shooter/blob/main/screens/scrinshot2.jpg?raw=true)
+![Поражение](https://github.com/Knizhniknikita/plane-shooter/blob/main/screens/scrinshot3.jpg?raw=true)
 
 ## ⚙️ Как запустить
 1. Установите зависимости: 
